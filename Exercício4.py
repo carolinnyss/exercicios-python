@@ -1,4 +1,3 @@
-
 #Usar o import math
 
 a = float(input("Digite o valor do coeficiente 'a': "))
